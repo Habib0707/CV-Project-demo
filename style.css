@@ -1,0 +1,42 @@
+*{margin:0;padding:0}
+body{background-color:#8d7575;font-family:roboto,sans-serif}
+.container{max-width:1000px;background-color:rgba(100,233,238,.541);margin:0 auto;padding:20px}
+/* ----------------
+header
+------------------*/
+.imi{width:100px;height:120px;border:3px solid #fff;border-radius:50%;float:left}
+.header-bio{float:left;padding:20px; width: 40%;}
+h1,h2,h3,h4,h5,h6{color:#210c7e; margin: 0; padding: 0;}
+.contact{float:right;padding:3px; width: 30%;}
+.contact a{text-decoration:none;color:#6b8e23;font: weight 45%;}
+.contact a:hover{text-decoration:underline;color:orange}
+.clear{clear:both}
+hr{border:solid #000 5px;border-bottom:none; width:100%;margin:20px;}
+/* ----------------
+Main
+------------------*/
+.lef-div{float:left;width:30%}
+.right-div{float:right;width:50%}
+.common-hr{border:solid #000 3px;border-bottom:none}
+.left-div1{float:left;padding:1px; width: 30%;}
+.right-div2{float:left;width:30%}
+.right-div3{float:right;width:30%}
+/* ----------------
+footer
+------------------*/
+.botton-container{
+    background-color: #000;
+    text-align: center;
+    padding: 10px;
+}
+
+.botton-container a{
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+}
+.botton-container p{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
